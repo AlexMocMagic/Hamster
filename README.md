@@ -23,8 +23,11 @@ export default {
     tsconfigRootDir: __dirname,
   },
 }
-```
+```![Screenshot 2024-04-05 140607](https://github.com/AlexMocMagic/Hamster/assets/126344692/f7d9a2ee-0da4-48b4-ba4e-6d22c6ee340d)
+
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+![Uploading Screenshot 2024-04-05 140607.png…]()
