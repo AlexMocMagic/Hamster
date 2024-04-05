@@ -13,7 +13,8 @@ If you are developing a production application, we recommend updating the config
 
 - Configure the top-level `parserOptions` property like this:
 
-```js
+```js![Screenshot 2024-04-05 140607](https://github.com/AlexMocMagic/Hamster/assets/126344692/7996accc-be96-473e-9fff-889be0d9888b)
+
 export default {
   // other rules...
   parserOptions: {
